@@ -1,4 +1,6 @@
 Title of project :- Medical Inventory and Billing 1.0
+Name :- Ajinkya Pralhad Wandale
+MIS :- 111508072
 
 List of featurs present in project:-
 1) Adding new medicines to the database
